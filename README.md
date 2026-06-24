@@ -1,10 +1,6 @@
 # Azure-lakehouse-platform
 Enterprise Azure Lakehouse platform using ADF, ADLS Gen2, Databricks, Delta Lake, Unity Catalog, and Medallion Architecture.
 
-# Azure Lakehouse Platform
-
-Enterprise-grade Azure Data Engineering platform implementing an end-to-end Lakehouse architecture using Azure Data Factory, Azure Data Lake Storage Gen2, Databricks, Delta Lake, Unity Catalog, and Medallion Architecture.
-
 ---
 
 ## Project Overview
