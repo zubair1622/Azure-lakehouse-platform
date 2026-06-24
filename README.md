@@ -171,22 +171,6 @@ Analytics
 
 ---
 
-## Repository Structure
-
-```text
-azure-lakehouse-platform/
-│
-├── architecture/
-├── docs/
-├── adf/
-├── databricks/
-├── screenshots/
-├── sql/
-└── README.md
-```
-
----
-
 ## Project Modules
 
 ### Data Ingestion
